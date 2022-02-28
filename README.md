@@ -1,1 +1,1 @@
-# reminder-spring-app
+# reminder-app
